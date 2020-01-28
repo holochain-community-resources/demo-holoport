@@ -14,27 +14,39 @@ If you would like to add or update something in this document, please make a pul
 3. Make sure there is a beamer or big screen available.
 4. If you want to connect to the Holoport directly, make sure you have a keyboard/mouse/screen available to connect to the Holoport.
 5. If you already registered the Holoport and want to re-register it during the event, make sure to do a factory reset before the event, [as described here](https://forum.holo.host/t/holoport-factory-reset/195). It will re-create the previous registration, so you can do it as many times as you want.
-6. It is always nice to have some cookies 🍪, water, tea or softdrinks available.
+6. Do a test-run at home, just to make sure everything works as expected.
 7. Wearing a Holo-shirt and have some shiny stickers will make the event even more top-notch.
 
+## Current Issues
+- After the factory reset the login link for the Holoport stopped working. In contact with team about this...important to have this working during the session!
+
 ## Introduction
-During the introduction it is nice to have a bit of background and context. A couple of slides will be really usefull for this.
+During the welcome and introduction it is nice to have a bit of background and context. A couple of slides will be usefull to support this.
 
 **Available slides:**
-- [Background, Facts & Stats]().
+- [Holo, IndieGogo campaign, current registrations](slides/holoport-facts.odp).
 
-Some questions/ideas to break the ice and engage with the crowd.
-1. Who owns a Holoport?
-2. 
+**Some questions to ask:**
+- Who owns a Holoport?
+- Who is familiar with Holo?
+- Who is familiar with Holochain?
+
 
 ## What to demo
 
-### Hardware & unboxing
 
+### Hardware & unboxing
 ### Registration process
+If you want to re-register your Holoport during the event, make sure you 
+
 https://quickstart.holo.host/
+
+factory reset: https://forum.holo.host/t/holoport-factory-reset/195
 
 ### HC Admin (WIP)
 Waiting for the HC Admin to be opened up to the public.
+
+
+## Discussion and Q&A
 
 ## Links & Resources
