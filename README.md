@@ -36,17 +36,26 @@ During the welcome and introduction it is nice to have a bit of background and c
 
 
 ### Hardware & unboxing
+
 ### Registration process
-If you want to re-register your Holoport during the event, make sure you 
 
-https://quickstart.holo.host/
+**IMPORTANT**: Use the below Instructions link (Not paper User's Guide)
+https://forum.holo.host/t/holoport-and-holoport-setup/136
 
-factory reset: https://forum.holo.host/t/holoport-factory-reset/195
+Registration quickstart: https://quickstart.holo.host/
+
+Factory reset instructions: https://forum.holo.host/t/holoport-factory-reset/195
+
+### Holoscape (Alternative for HC Admin)
+See instructions here.
 
 ### HC Admin (WIP)
 Waiting for the HC Admin to be opened up to the public.
+
+What hApp are installed on the Holoport (+links to github)?
 
 
 ## Discussion and Q&A
 
 ## Links & Resources
+https://store.holo.host/
